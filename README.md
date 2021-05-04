@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/vrajesh-patel-8241b41a3/" target="_blank">
-  <img align="left" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <img align="left" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
 <a href="mailto:vrajesh1@my.yorku.ca">
