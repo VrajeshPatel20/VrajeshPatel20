@@ -14,7 +14,9 @@
 </a>
 
 <br/>
+ ![Profile Views](https://komarev.com/ghpvc/?username=VrajeshPatel20&style=flat-square&color=green)
 
+<br/>
 ### About Me 🚀
 
 I am a coder who loves to think solutions out of thin air. I enjoy analyzing and training Real Time Data that could be beneficial in multiple fronts. I also have a knack for competitive coding.
