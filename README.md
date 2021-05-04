@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://binarysearch.com/@/vrajesh1" target="_blank">
-  <img align="left" width="26px" src="https://img.shields.io/badge/BinarySearch-vrajesh1-red" />
+  <img align="left" width="100px" src="https://img.shields.io/badge/BinarySearch-vrajesh1-red" />
 </a>
 
 <br/>
