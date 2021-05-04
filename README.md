@@ -6,7 +6,7 @@
 </a>
 
 <a href="mailto:vrajesh1@my.yorku.ca">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/%20-vrajesh1@my.yorku.ca-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
 </a>
 
 <a href="https://binarysearch.com/@/vrajesh1" target="_blank">
@@ -14,9 +14,7 @@
 </a>
 
 <br/>
- ![Profile Views](https://komarev.com/ghpvc/?username=VrajeshPatel20&style=flat-square&color=green)
 
-<br/>
 ### About Me 🚀
 
 I am a coder who loves to think solutions out of thin air. I enjoy analyzing and training Real Time Data that could be beneficial in multiple fronts. I also have a knack for competitive coding.
