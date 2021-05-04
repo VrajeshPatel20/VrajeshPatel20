@@ -6,7 +6,7 @@
 </a>
 
 <a href="mailto:vrajesh1@my.yorku.ca">
-  <img align="left" alt="Gmail" width="300px"src="https://img.shields.io/badge/%20-vrajesh1@my.yorku.ca-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
+  <img align="left" alt="Gmail" width="150px"src="https://img.shields.io/badge/%20-vrajesh1@my.yorku.ca-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
 </a>
 
 <a href="https://binarysearch.com/@/vrajesh1" target="_blank">
