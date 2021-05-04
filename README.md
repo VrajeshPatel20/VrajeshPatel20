@@ -10,8 +10,9 @@
 </a>
 
 <a href="https://binarysearch.com/@/vrajesh1" target="_blank">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
+  <img align="left" width="26px" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" />
 </a>
+
 
 
 ### About Me 🚀
