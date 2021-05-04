@@ -38,10 +38,10 @@ I am a coder who loves to think solutions out of thin air. I enjoy analyzing and
 
 ### Honors & Awards 🏅
 
-- Google HashCode 2021 (Global Rank : 5755) ![Certificate](https://codingcompetitions.withgoogle.com/hashcode/certificate/summary/0000000000435809)
+- Google HashCode 2021 (Global Rank : 5755)
 - Deans Honor List Fall Winter 2020-21
-- Google CodeJam 2021 (Successfully completed Qualification Round) ![Certificate](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1)
-- Google Kickstart 2021 (Global Rank : 6706) ![Certificate](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000435bad)
+- Google CodeJam 2021 (Successfully completed Qualification Round)
+- Google Kickstart 2021 (Global Rank : 6706) 
 
 ### Languages I use to talk to computer 🤔
 
