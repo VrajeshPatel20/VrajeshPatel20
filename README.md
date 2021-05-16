@@ -1,6 +1,6 @@
 ### Hi there, I'm Vrajesh 👋
 
- ![Profile Views](https://komarev.com/ghpvc/?username=rVrajeshPatel20&style=flat-square&color=green)
+
 <a href="https://www.linkedin.com/in/vrajesh-patel-8241b41a3/" target="_blank">
   <img align="left" width="120px" src="https://img.shields.io/badge/%20-Vrajesh Patel-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff"  />
 </a>
@@ -71,7 +71,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy analyzing and
 
 ![Vrajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VrajeshPatel20&show_icons=true&theme=radical)
 
-![Vrajesh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VrajeshPatel20&theme=blue-green)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrajeshPatel20&hide=eiffel&layout=compact&theme=radical" alt="Most used languages" />
 
 <!--
 **VrajeshPatel20/VrajeshPatel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
