@@ -1,6 +1,6 @@
 ### Hi there, I'm Vrajesh 👋
 
-
+ ![Profile Views](https://komarev.com/ghpvc/?username=rushilp2311&style=flat-square&color=green)
 <a href="https://www.linkedin.com/in/vrajesh-patel-8241b41a3/" target="_blank">
   <img align="left" width="120px" src="https://img.shields.io/badge/%20-Vrajesh Patel-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff"  />
 </a>
