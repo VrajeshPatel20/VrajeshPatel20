@@ -12,7 +12,9 @@
 <a href="https://binarysearch.com/@/vrajesh1" target="_blank">
   <img align="left" width="150px" src="https://img.shields.io/badge/BinarySearch-vrajesh1-red" />
 </a>
-
+<a href ="https://vrajeshpatel.herokuapp.com/" target="_blank">
+  <img align="left" width = "150px" src="https://img.shields.io/badge/Portfolio-VrajeshPatel-yellow"/>
+</a>
 <br/>
 
 ### About Me 🚀
