@@ -42,7 +42,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy analyzing and
 ### Honors & Awards 🏅
 
 - Google HashCode 2021 (Global Rank : 5755)
-- Deans Honor List Fall Winter 2020-21
+- Member of Deans Honor Roll Fall Winter 2020-21
 - Google CodeJam 2021 (Successfully completed Qualification Round)
 - Google Kickstart 2021 (Global Rank : 6706) 
 
