@@ -70,8 +70,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy analyzing and
 <p>&nbsp;</p>
 <br>
 
-![Vrajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VrajeshPatel20&show_icons=true&theme=radical)
-
 <!--
 **VrajeshPatel20/VrajeshPatel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
